@@ -6,7 +6,8 @@ body {
 
 
 #class1 {
-
+    
+    justify-self:center;
     height : 100px;
     width: 300px;
     border-radius: 20px;
