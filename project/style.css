@@ -6,7 +6,8 @@ body {
 
 
 #class1 {
-    
+
+    position: center;
     height : 100px;
     width: 500px;
     border-radius: 20px;
