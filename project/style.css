@@ -21,3 +21,11 @@ body {
     text-size: 30px;
 
 }
+
+#class2 { 
+
+    height: 100px;
+    width:350px;
+    border-radius: 20px;
+    background-color: blue;
+}
