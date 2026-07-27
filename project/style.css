@@ -8,13 +8,14 @@ body {
 #class1 {
     
     position: fixed;
-    bottom: 150;
-    right: 100;
+    margin-top: 150px;
+    margin-left: 1000px;
     height: 100px;
     width: 350px;
     border-radius: 20px;
     background-color: rgb(71, 22, 22);
     box-shadow: 10px 10px rgb(117, 149, 159);
     text-size: 30px;
+    
 
 }
