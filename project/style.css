@@ -7,8 +7,7 @@ body {
 .container {
    /* justify-content: center; */
     margin: 0 auto;
-    width: 50%;
-    height:0%;
+    width: 50;
 }
 
 #class1 {
