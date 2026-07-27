@@ -7,11 +7,10 @@ body {
 .container {
    /* justify-content: center; */
     margin: 0 auto;
-    width: 50;
+    width: 50%;
 }
 
 #class1 {
-    
     
     height: 100px;
     width: 350px;
@@ -19,6 +18,5 @@ body {
     background-color: rgb(71, 22, 22);
     box-shadow: 10px 10px rgb(117, 149, 159);
     text-size: 30px;
-    
 
 }
