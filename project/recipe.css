@@ -1,1 +1,32 @@
+body {
+    background-color: rgb(67, 16, 16);
+}
 
+
+
+#container {
+
+    background-color: rgb(105, 16, 16);
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 15px;
+    display: grid;
+    border-radius: 20px;
+    height: 300px;
+    width: 350px;
+
+}
+
+#part1 {
+
+    background-color: white;
+    height: 250px;
+    width: 150px;
+    
+}
+
+#part2 {
+
+    background-color: white;
+
+}
